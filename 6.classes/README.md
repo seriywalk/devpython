@@ -27,6 +27,8 @@
 - Необходимо посчитать общий вес всех животных(экземпляров класса);
 - Вывести название самого тяжелого животного.
 
+[uncle_joe_farm.py](uncle_joe_farm.py)
+
 ## Задача №4
 Для подготовки к следующей лекции прочитайте про [исключения](https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html).
 
