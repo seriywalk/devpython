@@ -17,7 +17,6 @@ class EggLaying(Animals):
     def do_personal_action(self):
         return self.do_eggs() + ", " + self.do_voice()
 
-
 class Cutting(Animals):  
     def do_cut(self):
         return "дает шерсть"

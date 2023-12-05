@@ -29,6 +29,7 @@
 
 [uncle_joe_farm.py](uncle_joe_farm.py)
 
+
 ## Задача №4
 Для подготовки к следующей лекции прочитайте про [исключения](https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html).
 
